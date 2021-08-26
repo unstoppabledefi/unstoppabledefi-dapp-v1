@@ -26,7 +26,7 @@ const defiProjects = [
   {
     name: "Uniswap",
     description: "Biggest AMM on Ethereum",
-    image: "/static/images/cards/uniswap.jpg",
+    image: "./static/images/cards/uniswap.jpg",
     imageText: "Image Text",
     dappUrl: "https://uniswap.unstoppabledefi.org",
     originalUrl: "https://app.uniswap.org",
@@ -35,7 +35,7 @@ const defiProjects = [
   {
     name: "Pancakeswap",
     description: "Biggest AMM on Binance Smart Chain",
-    image: "/static/images/cards/pancakeswap.png",
+    image: "./static/images/cards/pancakeswap.png",
     imageText: "Image Text",
     dappUrl: "https://pancakeswap.unstoppabledefi.org",
     originalUrl: "https://pancakeswap.finance",
